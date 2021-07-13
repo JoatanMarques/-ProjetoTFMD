@@ -1,3 +1,4 @@
+package TFMD;
 public abstract class Comodos{
     private double largura;
     private double comprimento;

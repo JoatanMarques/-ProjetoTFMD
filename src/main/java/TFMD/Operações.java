@@ -1,3 +1,4 @@
+package TFMD;
 public class Operações extends Comodos{
     private double m2;
     private double resultado;
