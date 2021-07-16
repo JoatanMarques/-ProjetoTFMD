@@ -1,7 +1,5 @@
-# -ProjetoTFMD
+# TFMD
 Projeto Hackoonspace 2021/1
-
-TFMD
 
 TFMD é uma aplicação feita para a realização de orçamentos de diversos tipos de serviços voltado a construção.
 A aplicação realiza as operações necessárias para devolver o valor de cada comodo, sendo necessário a entrada apenas do comodo, tipo de serviço, valor e tamanho.
